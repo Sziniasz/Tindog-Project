@@ -1,0 +1,167 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #E8D2A6;
+
+}
+
+hr {
+  border: dotted #a6adad 6px;
+  border-bottom: none;
+  width: 4px;
+  margin: 100px auto;
+  
+}
+
+.asd {
+  padding-top: 1px ;
+}
+
+a {
+  color: #E1EEDD;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+
+}
+
+p {
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #E8D2A6;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #E8D2A6;
+}
+
+div {
+  background-color: #E1EEDD;
+
+}
+
+.top-container {
+  background-color:#FEFBE9;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.bottom-container {
+  background-color: #E8D2A6;
+  padding: 50px 0 20px;
+}
+
+a:hover {
+  color: #6b7767;
+}
+
+.my-name {
+  color: #E1EEDD;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.my-pfp {
+  border-radius: 50%;
+  height: 300px;
+
+
+
+  
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.hacker-img {
+  width: 25%;
+   float: right;
+   margin-left: 30px;
+}
+
+.btn {
+  border: none;
+  height: 50px;
+  width: 100px;
+  border-radius: 25px;
+  background-color: #E8D2A6;
+  cursor: pointer;
+  color: #E1EEDD;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.hey-text {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+
+
+.contact-me { 
+  background-color: #E1EEDD;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+
+.btn:hover {
+  background-color: #d3c8b2;
+}
+
